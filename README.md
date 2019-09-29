@@ -1,13 +1,13 @@
 <!-- markdownlint-disable MD022 MD032 -->
 
 [<-- back to Table of Contents](https://james-priest.github.io/100-days-log/)
-# James Priest
+# Nguyen Huu Truong
 
 ## 100 Days Of Code
 
 | Log 1 | Log 2 | Log 3 | Log 4 | Log 5 |
 | --- | --- | --- | --- | --- |
-| this log | [100 Days Round 2](https://james-priest.github.io/100-days-of-code-log-r2/) | [100 Days Round 3](https://james-priest.github.io/100-days-of-code-log-r3/) | [100 Days Round 4](https://james-priest.github.io/100-days-of-code-log-r4/) | [100 Days Round 5](https://james-priest.github.io/100-days-log/log5.html) |
+| this log | [100 Days Round 2] | [100 Days Round 3] | [100 Days Round 4] | [100 Days Round 5] |
 
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -325,10 +325,10 @@ We are then free to define anything in the return object that we want to expose.
 
 This will provide you the following benefits:
 1. Organization of your code
-1. Avoids polluting the global namespace
-1. Encapsulates & protects your private data
-1. Returns an object that exposes public methods and properties
-1. Allows your namespace variable to be immediately accessible
+2. Avoids polluting the global namespace
+3. Encapsulates & protects your private data
+4. Returns an object that exposes public methods and properties
+5. Allows your namespace variable to be immediately accessible
 
 Lastly, you will have bragging rights to say you've used:
 - An _Immediately Invoked Function Expression_ (IIFE)
